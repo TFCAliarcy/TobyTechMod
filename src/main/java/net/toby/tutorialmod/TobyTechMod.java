@@ -18,7 +18,7 @@ import org.slf4j.Logger;
 public class TobyTechMod {
     public static final String MOD_ID = "tobytechmod";
     private static final Logger LOGGER = LogUtils.getLogger();
-//hi
+
     public TobyTechMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
