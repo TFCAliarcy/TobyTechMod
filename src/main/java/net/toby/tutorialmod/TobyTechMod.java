@@ -14,12 +14,12 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
-@Mod(TutorialMod.MOD_ID)
-public class TutorialMod {
-    public static final String MOD_ID = "tutorialmod";
+@Mod(TobyTechMod.MOD_ID)
+public class TobyTechMod {
+    public static final String MOD_ID = "tobytechmod";
     private static final Logger LOGGER = LogUtils.getLogger();
 
-    public TutorialMod() {
+    public TobyTechMod() {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         modEventBus.addListener(this::commonSetup);
