@@ -1,0 +1,17 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:rods/red_steel"
+  },
+  "result": {
+    "item": "railcraft:standard_rail",
+    "count":4
+  },
+  "tier": 6,
+  "rules": [
+    "draw_last",
+    "draw_not_last",
+    "draw_not_last"
+  ],
+  "apply_forging_bonus": false
+}
