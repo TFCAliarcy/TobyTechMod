@@ -1,5 +1,5 @@
 {
-  "__comment__": "This file was automatically created by mcresources",
+
   "type": "tfc:heating",
   "ingredient": {
     "item": "tfc:metal/unfinished_lamp/black_steel"

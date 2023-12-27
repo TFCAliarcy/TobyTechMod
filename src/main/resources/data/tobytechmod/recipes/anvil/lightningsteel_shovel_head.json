@@ -1,0 +1,15 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/dragonsteel_lightning"
+  },
+  "result": {
+    "item": "tobytechmod:lightningsteel_shovel_head"
+  },
+  "tier": 6,
+  "rules": [
+    "punch_last",
+    "hit_not_last"
+  ],
+  "apply_forging_bonus": true
+}

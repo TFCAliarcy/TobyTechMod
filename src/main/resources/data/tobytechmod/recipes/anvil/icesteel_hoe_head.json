@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "tag": "forge:ingots/dragonsteel_ice"
+  },
+  "result": {
+    "item": "tobytechmod:icesteel_hoe_head"
+  },
+  "tier": 6,
+  "rules": [
+    "punch_last",
+    "hit_not_last",
+    "bend_not_last"
+  ],
+  "apply_forging_bonus": true
+}

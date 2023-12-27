@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/dragonsteel_fire"
+  },
+  "second_input": {
+    "tag": "forge:ingots/dragonsteel_fire"
+  },
+  "tier": 6,
+  "result": {
+    "item": "tobytechmod:firesteel_double_ingot"
+  }
+}

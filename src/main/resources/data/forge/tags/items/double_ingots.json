@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#forge:double_ingots/lightningsteel",
+    "#forge:double_ingots/icesteel",
+    "#forge:double_ingots/firesteel"
+  ]
+}

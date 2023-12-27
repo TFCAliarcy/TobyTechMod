@@ -1,0 +1,15 @@
+{
+
+  "type": "tfc:casting",
+  "mold": {
+    "item": "tfc:ceramic/mace_head_mold"
+  },
+  "fluid": {
+    "ingredient": "tfc:metal/bronze",
+    "amount": 288
+  },
+  "result": {
+    "item": "tfc:metal/mace_head/bronze"
+  },
+  "break_chance": 1
+}

@@ -1,0 +1,8 @@
+{
+  "ingredient": {
+    "item": "iceandfire:dragonsteel_ice_ingot"
+  },
+  "heat_capacity": 7.143,
+  "forging_temperature": 924,
+  "welding_temperature": 1232
+}

@@ -1,0 +1,23 @@
+{
+  "item.tobytechmod.dragonbone_pick_head": "Dragonbone Pickaxe Head",
+  "item.tobytechmod.lightningsteel_double_ingot": "Lightning Dragonsteel Double Ingot",
+  "item.tobytechmod.firesteel_double_ingot": "Fire Dragonsteel Double Ingot",
+  "item.tobytechmod.icesteel_double_ingot": "Ice Dragonsteel Double Ingot",
+  "item.tobytechmod.lightningsteel_pick_head": "Lightning Dragonsteel Pickaxe Head",
+  "item.tobytechmod.icesteel_pick_head": "Ice Dragonsteel Pickaxe Head",
+  "item.tobytechmod.firesteel_pick_head": "Fire Dragonsteel Pickaxe Head",
+  "item.tobytechmod.firesteel_shovel_head": "Fire Dragonsteel Shovel Head",
+  "item.tobytechmod.icesteel_shovel_head": "Ice Dragonsteel Shovel Head",
+  "item.tobytechmod.lightningsteel_shovel_head": "Lightning Dragonsteel Shovel Head",
+  "item.tobytechmod.lightningsteel_axe_head": "Lightning Dragonsteel Axe Head",
+  "item.tobytechmod.firesteel_axe_head": "Fire Dragonsteel Axe Head",
+  "item.tobytechmod.icesteel_axe_head": "Ice Dragonsteel Axe Head",
+  "item.tobytechmod.icesteel_hoe_head": "Ice Dragonsteel Hoe Head",
+  "item.tobytechmod.firesteel_hoe_head": "Fire Dragonsteel Hoe Head",
+  "item.tobytechmod.lightningsteel_hoe_head": "Lightning Dragonsteel Hoe Head",
+  "item.tobytechmod.lightningsteel_sword_head": "Lightning Dragonsteel Sword Blade",
+  "item.tobytechmod.icesteel_sword_head": "Ice Dragonsteel Sword Blade",
+  "item.tobytechmod.firesteel_sword_head": "Fire Dragonsteel Sword Blade",
+
+  "creativetab.tobytechmod_tab": "TobyTech Tab"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "tfc:welding",
+  "first_input": {
+    "tag": "forge:ingots/dragonsteel_ice"
+  },
+  "second_input": {
+    "tag": "forge:ingots/dragonsteel_ice"
+  },
+  "tier": 6,
+  "result": {
+    "item": "tobytechmod:icesteel_double_ingot"
+  }
+}

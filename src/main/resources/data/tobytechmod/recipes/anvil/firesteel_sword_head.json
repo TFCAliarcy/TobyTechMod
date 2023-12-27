@@ -1,0 +1,16 @@
+{
+  "type": "tfc:anvil",
+  "input": {
+    "item": "tobytechmod:firesteel_double_ingot"
+  },
+  "result": {
+    "item": "tobytechmod:firesteel_sword_head"
+  },
+  "tier": 6,
+  "rules": [
+    "hit_last",
+    "bend_second_last",
+    "bend_third_last"
+  ],
+  "apply_forging_bonus": true
+}
