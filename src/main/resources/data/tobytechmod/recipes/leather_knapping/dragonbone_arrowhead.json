@@ -1,0 +1,19 @@
+{
+  "type": "tfc:knapping",
+  "knapping_type": "tobytechmod:dragonbone",
+  "outside_slot_required": false,
+  "pattern": [
+    "  X  ",
+    " XXX ",
+    "XXXXX",
+    "XX XX",
+    "X   X"
+  ],
+  "ingredient": {
+    "item": "iceandfire:dragonbone"
+  },
+  "result": {
+    "item": "tobytechmod:dragonbone_arrow_head",
+    "count": 5
+  }
+}

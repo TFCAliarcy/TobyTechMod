@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "amount": 10,
+      "fluid": "afc:maple_sap"
+    }
+  ],
+  "results": [
+    {
+      "amount": 1,
+      "fluid": "afc:maple_sap_concentrate"
+    }
+  ]
+}

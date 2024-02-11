@@ -1,0 +1,12 @@
+{
+  "type": "railcraft:coking",
+  "cookingTime": 400,
+  "creosoteOutput": 500,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "tfc:ore/bituminous_coal"
+  },
+  "result": {
+    "item": "immersiveengineering:coal_coke"
+  }
+}

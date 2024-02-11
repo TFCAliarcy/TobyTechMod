@@ -1,0 +1,32 @@
+{
+  "type": "tfc:advanced_shaped_crafting",
+  "pattern": [
+    "BXS",
+    "XGS",
+    "BXS"
+  ],
+  "key": {
+    "X": {
+      "item": "iceandfire:dragonbone"
+    },
+    "G": {
+      "tag": "forge:slimeballs"
+    },
+    "B": {
+      "tag": "tfc:lumber"
+    },
+    "S": {
+      "tag": "forge:string"
+    }
+  },
+  "result": {
+    "stack": {
+      "item": "iceandfire:dragonbone_bow"
+    },
+    "modifiers": [
+      "tfc:copy_forging_bonus"
+    ]
+  },
+  "input_row": 0,
+  "input_column": 0
+}

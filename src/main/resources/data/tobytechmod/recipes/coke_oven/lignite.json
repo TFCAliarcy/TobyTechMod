@@ -1,0 +1,12 @@
+{
+  "type": "railcraft:coking",
+  "cookingTime": 600,
+  "creosoteOutput": 300,
+  "experience": 0.0,
+  "ingredient": {
+    "item": "tfc:ore/lignite"
+  },
+  "result": {
+    "item": "immersiveengineering:coal_coke"
+  }
+}

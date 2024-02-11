@@ -10,9 +10,6 @@ import net.toby.tobytechmod.TobyTechMod;
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, TobyTechMod.MOD_ID);
-
-    public static final RegistryObject<Item> DRAGONBONE_PICK_HEAD = ITEMS.register("dragonbone_pick_head",
-            () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LIGHTNINGSTEEL_DOUBLE_INGOT = ITEMS.register("lightningsteel_double_ingot",
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ICESTEEL_DOUBLE_INGOT = ITEMS.register("icesteel_double_ingot",
@@ -49,7 +46,16 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ICESTEEL_AXE_HEAD = ITEMS.register("icesteel_axe_head",
             () -> new Item(new Item.Properties()));
-
+    public static final RegistryObject<Item> DRAGONBONE_AXE_HEAD = ITEMS.register("dragonbone_axe_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_SHOVEL_HEAD = ITEMS.register("dragonbone_shovel_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_HOE_HEAD = ITEMS.register("dragonbone_hoe_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_SWORD_HEAD = ITEMS.register("dragonbone_sword_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_ARROW_HEAD = ITEMS.register("dragonbone_arrow_head",
+            () -> new Item(new Item.Properties()));
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

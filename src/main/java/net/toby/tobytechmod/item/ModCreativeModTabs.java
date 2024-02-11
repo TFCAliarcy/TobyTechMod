@@ -14,10 +14,9 @@ public class ModCreativeModTabs {
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, TobyTechMod.MOD_ID);
 
     public static final RegistryObject<CreativeModeTab> TOBYTECHMOD_TAB = CREATIVE_MODE_TABS.register("tobytechmod_tab",
-    () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.DRAGONBONE_PICK_HEAD.get()))
+    () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.FIRESTEEL_PICK_HEAD.get()))
             .title(Component.translatable("creativetab.tobytechmod_tab"))
             .displayItems((pParameters, pOutput) -> {
-             pOutput.accept(ModItems.DRAGONBONE_PICK_HEAD.get());
              pOutput.accept(ModItems.LIGHTNINGSTEEL_DOUBLE_INGOT.get());
              pOutput.accept(ModItems.FIRESTEEL_DOUBLE_INGOT.get());
              pOutput.accept(ModItems.ICESTEEL_DOUBLE_INGOT.get());
@@ -36,7 +35,11 @@ public class ModCreativeModTabs {
              pOutput.accept(ModItems.FIRESTEEL_SHOVEL_HEAD.get());
              pOutput.accept(ModItems.LIGHTNINGSTEEL_SHOVEL_HEAD.get());
              pOutput.accept(ModItems.ICESTEEL_SHOVEL_HEAD.get());
-
+             pOutput.accept(ModItems.DRAGONBONE_SHOVEL_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_SWORD_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_AXE_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_HOE_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_ARROW_HEAD.get());
             })
             .build());
 

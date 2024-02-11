@@ -1,5 +1,4 @@
 {
-  "item.tobytechmod.dragonbone_pick_head": "Dragonbone Pickaxe Head",
   "item.tobytechmod.lightningsteel_double_ingot": "Lightning Dragonsteel Double Ingot",
   "item.tobytechmod.firesteel_double_ingot": "Fire Dragonsteel Double Ingot",
   "item.tobytechmod.icesteel_double_ingot": "Ice Dragonsteel Double Ingot",
@@ -18,6 +17,11 @@
   "item.tobytechmod.lightningsteel_sword_head": "Lightning Dragonsteel Sword Blade",
   "item.tobytechmod.icesteel_sword_head": "Ice Dragonsteel Sword Blade",
   "item.tobytechmod.firesteel_sword_head": "Fire Dragonsteel Sword Blade",
+  "item.tobytechmod.dragonbone_axe_head": "Dragonbone Axe Head",
+  "item.tobytechmod.dragonbone_sword_head": "Dragonbone Sword Blade",
+  "item.tobytechmod.dragonbone_shovel_head": "Dragonbone Shovel Head",
+  "item.tobytechmod.dragonbone_hoe_head": "Dragonbone Hoe Head",
+  "item.tobytechmod.dragonbone_arrow_head": "Dragonbone Arrow Head",
 
   "creativetab.tobytechmod_tab": "TobyTech Tab"
 }
