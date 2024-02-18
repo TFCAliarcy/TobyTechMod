@@ -1,11 +1,14 @@
 package net.toby.tobytechmod.item;
 
+import net.minecraft.world.item.DiggerItem;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ShovelItem;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.toby.tobytechmod.TobyTechMod;
+import net.toby.tobytechmod.item.custom.ModToolTiers;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
@@ -56,7 +59,18 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> DRAGONBONE_ARROW_HEAD = ITEMS.register("dragonbone_arrow_head",
             () -> new Item(new Item.Properties()));
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
-    }
+    public static final RegistryObject<Item> DRAGONBONE_JAVELIN_HEAD = ITEMS.register("dragonbone_javelin_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_SCYTHE_HEAD = ITEMS.register("dragonbone_scythe_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_KNIFE_HEAD = ITEMS.register("dragonbone_knife_head",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_JAVELIN = ITEMS.register("dragonbone_javelin",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_SCYTHE = ITEMS.register("dragonbone_scythe",
+            () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> DRAGONBONE_KNIFE = ITEMS.register("dragonbone_knife",
+            () -> new ShovelItem(ModToolTiers.DRAGONBONE, 4, 4, new Item.Properties()));
+
+    public static void register(IEventBus eventBus) {ITEMS.register(eventBus);}
 }

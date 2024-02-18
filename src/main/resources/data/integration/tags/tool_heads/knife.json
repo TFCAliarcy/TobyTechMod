@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tobytechmod:icesteel_knife_head",
+    "tobytechmod:firesteel_knife_head",
+    "tobytechmod:lightningsteel_knife_head",
+    "tobytechmod:dragonbone_knife_head"
+  ]
+}

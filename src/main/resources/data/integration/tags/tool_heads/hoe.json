@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tobytechmod:icesteel_hoe_head",
+    "tobytechmod:firesteel_hoe_head",
+    "tobytechmod:lightningsteel_hoe_head",
+    "tobytechmod:dragonbone_hoe_head"
+  ]
+}

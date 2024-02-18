@@ -1,0 +1,17 @@
+{
+  "type": "tfc:knapping",
+  "knapping_type": "tobytechmod:dragonbone",
+  "outside_slot_required": false,
+  "pattern": [
+    "   X ",
+    "  XX ",
+    "  XX ",
+    "  XX "
+  ],
+  "ingredient": {
+    "item": "iceandfire:dragonbone"
+  },
+  "result": {
+    "item": "tobytechmod:dragonbone_knife_head"
+  }
+}

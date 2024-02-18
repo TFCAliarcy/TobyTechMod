@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "tobytechmod:dragonbone_knife",
+    "tobytechmod:dragonbone_scythe",
+    "iceandfire:dragonbone_hoe",
+    "iceandfire:dragonsteel_fire_hoe",
+    "iceandfire:dragonsteel_ice_hoe",
+    "iceandfire:dragonsteel_lightning_hoe"
+  ]
+}

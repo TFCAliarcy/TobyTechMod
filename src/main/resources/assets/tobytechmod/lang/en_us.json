@@ -22,6 +22,12 @@
   "item.tobytechmod.dragonbone_shovel_head": "Dragonbone Shovel Head",
   "item.tobytechmod.dragonbone_hoe_head": "Dragonbone Hoe Head",
   "item.tobytechmod.dragonbone_arrow_head": "Dragonbone Arrow Head",
+  "item.tobytechmod.dragonbone_scythe_head": "Dragonbone Scythe Head",
+  "item.tobytechmod.dragonbone_knife_head": "Dragonbone Knife Head",
+  "item.tobytechmod.dragonbone_javelin_head": "Dragonbone Javelin Head",
+  "item.tobytechmod.dragonbone_javelin": "Dragonbone Javelin",
+  "item.tobytechmod.dragonbone_scythe": "Dragonbone Scythe",
+  "item.tobytechmod.dragonbone_knife": "Dragonbone Knife",
 
   "creativetab.tobytechmod_tab": "TobyTech Tab"
 }

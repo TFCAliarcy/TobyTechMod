@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tobytechmod:item/dragonbone_javelin_head"
+  }
+}

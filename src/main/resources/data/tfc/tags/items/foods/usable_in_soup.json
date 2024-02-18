@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "iceandfire:ice_dragon_flesh",
+    "iceandfire:fire_dragon_flesh",
+    "iceandfire:lightning_dragon_flesh",
+    "tfc:food/beet",
+    "#tfc:foods/flour"
+  ]
+}

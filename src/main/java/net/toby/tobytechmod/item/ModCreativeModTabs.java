@@ -40,6 +40,12 @@ public class ModCreativeModTabs {
              pOutput.accept(ModItems.DRAGONBONE_AXE_HEAD.get());
              pOutput.accept(ModItems.DRAGONBONE_HOE_HEAD.get());
              pOutput.accept(ModItems.DRAGONBONE_ARROW_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_KNIFE_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_SCYTHE_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_JAVELIN_HEAD.get());
+             pOutput.accept(ModItems.DRAGONBONE_JAVELIN.get());
+             pOutput.accept(ModItems.DRAGONBONE_SCYTHE.get());
+             pOutput.accept(ModItems.DRAGONBONE_KNIFE.get());
             })
             .build());
 

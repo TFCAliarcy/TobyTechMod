@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "iceandfire:dragonbone_axe",
+    "iceandfire:dragonsteel_fire_axe",
+    "iceandfire:dragonsteel_ice_axe",
+    "iceandfire:dragonsteel_lightning_axe",
+    "iceandfire:dragonbone_sword_fire",
+    "iceandfire:dragonbone_sword_ice",
+    "iceandfire:dragonbone_sword_lightning"
+  ]
+}

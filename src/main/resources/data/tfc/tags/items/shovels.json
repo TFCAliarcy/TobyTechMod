@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "iceandfire:dragonbone_shovel",
+    "iceandfire:dragonsteel_fire_shovel",
+    "iceandfire:dragonsteel_ice_shovel",
+    "iceandfire:dragonsteel_lightning_shovel"
+  ]
+}

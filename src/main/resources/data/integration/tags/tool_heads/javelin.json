@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "tobytechmod:icesteel_javelin_head",
+    "tobytechmod:firesteel_javelin_head",
+    "tobytechmod:lightningsteel_javelin_head",
+    "tobytechmod:dragonbone_javelin_head"
+  ]
+}
