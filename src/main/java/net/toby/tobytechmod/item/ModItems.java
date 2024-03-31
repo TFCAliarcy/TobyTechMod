@@ -1,17 +1,13 @@
 package net.toby.tobytechmod.item;
 
 import net.minecraft.tags.TagKey;
-import net.minecraft.world.item.DiggerItem;
-import net.minecraft.world.item.Item;
-import net.minecraft.world.item.ShovelItem;
-import net.minecraft.world.item.Tier;
+import net.minecraft.world.item.*;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
 import net.toby.tobytechmod.TobyTechMod;
-//import net.toby.tobytechmod.item.custom.ModToolTiers;
 import net.toby.tobytechmod.item.util.ModTags;
 
 public class ModItems {
@@ -74,10 +70,7 @@ public class ModItems {
     public static final RegistryObject<Item> DRAGONBONE_SCYTHE = ITEMS.register("dragonbone_scythe",
             () -> new Item(new Item.Properties())); 
     public static final RegistryObject<Item> DRAGONBONE_KNIFE = ITEMS.register("dragonbone_knife",
-            () -> new Item(new Item.Properties()));
-
-    //KNIFE(Type.TOOL, metal -> new ToolItem(metal.toolTier(), ToolItem.calculateVanillaAttackDamage(0.6f, metal.toolTier()), -2.0F, TFCTags.Blocks.MINEABLE_WITH_KNIFE, properties(metal))),
-    //KNIFE_BLADE(Type.TOOL, true),
+            () -> new ShovelItem(ModToolTiers.TOBYKNIFE, 4, 2, new Item.Properties()));
 
     public static void register(IEventBus eventBus) {ITEMS.register(eventBus);}
 }
