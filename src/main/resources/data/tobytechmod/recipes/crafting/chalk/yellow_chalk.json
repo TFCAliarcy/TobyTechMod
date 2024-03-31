@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "tfc:rock/loose/chalk"
+    },
+    {
+      "tag": "forge:dyes/yellow"
+    }
+  ],
+  "result": {
+    "item": "chalk:yellow_chalk"
+  }
+}
